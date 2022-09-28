@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#counter{
+    font-size: 30px;
+}
+.content{
+    margin-top: 300px;
+
+}
+.card {
+    background-color: cornflowerblue;
+    border: 2px black dotted;
+    left: 30%;
+    top: 30%;
+    width: 40%;
+    position: absolute;
+    border-radius: 30px;
+}
+.buttons{
+    margin-bottom: 30px;
+}
+button {
+    font-size: 30px;
+    border-radius: 10px;
+
+}
